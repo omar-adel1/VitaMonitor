@@ -52,4 +52,7 @@ To use the VitaMonitor+ system, follow these instructions:
 6. Take necessary medical intervention if alerted or as per the monitoring results.
 7. Regularly check and maintain the system's components to ensure optimal performance.
 
+## Block Diagram
+![Block Diagram](./images/Block_Diagram.png)
+
 
