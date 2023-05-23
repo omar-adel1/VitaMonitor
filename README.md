@@ -4,10 +4,9 @@
 
 - [Description](#Description)
 - [Components](#Components)
-- [Installation and Setup](#Installation and Setup)
+- [Installation and Setup](#Installation-and-Setup)
 - [Usage](#Usage)
-- [Block Diagram](#Block Diagram)
-- 
+- [Block Diagram](#Block-Diagram)
 ## Description
 In critical medical situations such as those in the Intensive Care Unit (ICU), timely and accurate monitoring of patients is crucial to ensure optimal healthcare outcomes. Hypotension, a condition characterized by a decrease in blood pressure and an increase in heart rate, is one such critical case where immediate intervention is necessary. In such cases, administering medication through an intravenous (IV) cannula is often required. However, with medical personnel already overloaded with responsibilities in the ICU, a comprehensive system that can seamlessly integrate patient monitoring and medication delivery becomes essential.
 
